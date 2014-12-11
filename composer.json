@@ -1,0 +1,27 @@
+{
+    "name": "teepluss/recaptcha",
+    "description": "Google reCAPTCHA for Laravel.",
+    "keywords": ["laravel", "captcha", "recaptcha"],
+    "homepage": "https://github.com/teepluss/laravel-recaptcha",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teepluss",
+            "email": "teepluss@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Teepluss\\Recaptcha\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
