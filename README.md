@@ -1,6 +1,6 @@
 ## Laravel reCAPTCHA.
 
-[![reCAPTCHA from Google](https://www.google.com/recaptcha/intro/images/hero-recaptcha-demo.gif)]
+[![reCAPTCHA from Google](https://www.google.com/recaptcha/intro/images/hero-recaptcha-demo.gif)](https://www.google.com/recaptcha/intro/index.html)
 
 ### Installation
 
