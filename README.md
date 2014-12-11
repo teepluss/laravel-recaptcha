@@ -19,9 +19,7 @@ Once Recaptcha is installed you need to register the service provider with the a
 
 ~~~
 'providers' => array(
-
     'Teepluss\Recaptcha\RecaptchaServiceProvider'
-
 )
 ~~~
 
