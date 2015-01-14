@@ -1,5 +1,7 @@
 ## Laravel reCAPTCHA.
 
+Are you a robot? Introducing “No CAPTCHA reCAPTCHA”
+
 [![reCAPTCHA from Google](https://www.google.com/recaptcha/intro/images/hero-recaptcha-demo.gif)](https://www.google.com/recaptcha/intro/index.html)
 
 ### Installation
@@ -15,7 +17,7 @@ To get the lastest version of Recaptcha simply require it in your `composer.json
 
 You'll then need to run `composer install` to download it and have the autoloader updated.
 
-Once Recaptcha is installed you need to register the service provider with the application. Open up `app/config/app.php` and find the `providers` key.
+Once reCAPTCHA is installed you need to register the service provider with the application. Open up `app/config/app.php` and find the `providers` key.
 
 ~~~
 'providers' => array(

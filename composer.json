@@ -1,7 +1,7 @@
 {
     "name": "teepluss/recaptcha",
-    "description": "Google reCAPTCHA for Laravel.",
-    "keywords": ["laravel", "captcha", "recaptcha"],
+    "description": "Google No CAPTCHA reCAPTCHA for Laravel.",
+    "keywords": ["laravel", "captcha", "recaptcha", "nocaptcha"],
     "homepage": "https://github.com/teepluss/laravel-recaptcha",
     "type": "library",
     "license": "MIT",
