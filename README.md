@@ -28,7 +28,7 @@ Once reCAPTCHA is installed you need to register the service provider with the a
 Publish config using artisan CLI.
 
 ~~~
-php artisan publish:config teepluss/recaptcha
+php artisan config:publish teepluss/recaptcha
 ~~~
 
 Publish view using artisan CLI.
